@@ -3,6 +3,8 @@ body{
     background-color: #a7a6c3;
 }
 #banner{
+    width: 100%;
+    height: 100%;
 
 
 
@@ -12,7 +14,7 @@ body{
 
 
 h1{
-    background-color: #160F29;
+    
     text-align: center;color:aliceblue
 }
 
